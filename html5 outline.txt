@@ -1,0 +1,80 @@
+## HTML5 Outline — Zenless Zone Zero
+
+**Document Title:** Zenless Zone Zero — Overview & Guide
+
+1. **Header**
+
+   * Site/Document Title: *Zenless Zone Zero*
+   * Navigation
+
+     * Home
+     * Overview
+     * Story
+     * Gameplay
+     * Characters
+     * Factions
+     * Resources
+
+2. **Main Content**
+
+   * **Section 1: Introduction**
+
+     * H1: Zenless Zone Zero
+     * Brief Description / Tagline
+     * Game genre, developer (HoYoverse), release date
+   * **Section 2: Story & Setting**
+
+     * H2: World Overview
+     * H3: New Eridu (main city)
+     * H3: Hollows (mysterious zones)
+     * H2: Main Plot Summary
+   * **Section 3: Gameplay**
+
+     * H2: Core Mechanics
+
+       * H3: Combat System
+       * H3: Exploration
+       * H3: Missions & Quests
+     * H2: Progression
+
+       * H3: Leveling & Skills
+       * H3: Equipment & Upgrades
+   * **Section 4: Characters**
+
+     * H2: Playable Agents
+
+       * H3: Protagonist
+       * H3: Key Agents (grouped by faction)
+     * H2: NPCs
+   * **Section 5: Factions**
+
+     * H2: Cunning Hares
+     * H2: Victoria Housekeeping
+     * H2: Belobog Industries
+     * H2: Others
+   * **Section 6: Media**
+
+     * H2: Screenshots
+     * H2: Trailers
+   * **Section 7: Tips & Strategies**
+
+     * H2: Combat Tips
+     * H2: Resource Management
+   * **Section 8: Updates & Events**
+
+     * H2: Latest Patch Notes
+     * H2: Upcoming Events
+
+3. **Aside (Sidebar)**
+
+   * Quick Links
+   * Related Games
+   * Official Resources
+
+4. **Footer**
+
+   * Copyright
+   * External Links
+   * Social Media Links
+
+---
